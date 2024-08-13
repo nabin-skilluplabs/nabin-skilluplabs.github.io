@@ -1,3 +1,5 @@
-# My Personal Website
+# Personal Website Template
 
-## Introduction
+Description: A beginner-friendly personal website template with helpful comments.
+
+Fork this repository and edit away!
