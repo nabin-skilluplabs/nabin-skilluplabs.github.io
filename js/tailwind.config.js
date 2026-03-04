@@ -6,7 +6,7 @@ tailwind.config = {
       colors: {
         ink: '#0a0a0a',
         ivory: '#f5f0e8',
-        gold: '#c9a84c',
+        gold: '#e01245',
         'gold-light': '#e2c97e',
         mist: '#1a1a1a',
         'mist-2': '#242424',
