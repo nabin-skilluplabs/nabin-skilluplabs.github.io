@@ -1,16 +1,15 @@
-// Tailwind config
 tailwind.config = {
   darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        ink: '#0a0a0a',
-        ivory: '#f5f0e8',
-        gold: '#e01245',
-        'gold-light': '#e2c97e',
-        mist: '#1a1a1a',
-        'mist-2': '#242424',
-        slate: '#888888',
+        ink: '#023047',
+        ivory: '#8ecae6',
+        gold: '#ffb703',
+        'gold-light': '#fb8500',
+        mist: '#0a1f2e',
+        'mist-2': '#03213a',
+        slate: '#219ebc',
       },
       fontFamily: {
         display: ['Playfair Display', 'serif'],
