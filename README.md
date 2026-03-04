@@ -1,7 +1,7 @@
 ## Skillup Labs Personal Website
 
-This is my personal website.
+[Visit my website](https://nabin-skilluplabs.github.io)
 
 ### Projects
 
-- [Responsive design](./projects/responsive-design)
+- [Responsive design](https://nabin-skilluplabs.github.io/projects/responsive-design)
