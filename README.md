@@ -5,3 +5,4 @@
 ### Projects
 
 - [Responsive design](https://nabin-skilluplabs.github.io/projects/responsive-design)
+- [ChatGPT](https://nabin-skilluplabs.github.io/projects/chatgpt)
