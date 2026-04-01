@@ -1,0 +1,20 @@
+body {
+  min-height: max(884px, 100dvh);
+  background-color: #f9f9f9;
+  color: #1a1c1c;
+  -webkit-font-smoothing: antialiased;
+}
+
+.gallery-item:nth-child(even) {
+  margin-top: 4rem;
+}
+
+.is-hidden {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .gallery-item:nth-child(even) {
+    margin-top: 0;
+  }
+}
