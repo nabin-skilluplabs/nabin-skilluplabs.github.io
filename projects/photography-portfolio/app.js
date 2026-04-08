@@ -23,11 +23,11 @@ filterButtons.forEach((button) => {
     const filter = button.dataset.filter;
 
     filterButtons.forEach((item) => {
-      item.classList.remove("border-b", "border-black", "pb-1", "font-bold", "text-black");
+      item.classList.remove("border-b", "border-primary", "pb-1", "font-bold", "text-primary");
       item.classList.add("text-outline");
     });
 
-    button.classList.add("border-b", "border-black", "pb-1", "font-bold", "text-black");
+    button.classList.add("border-b", "border-primary", "pb-1", "font-bold", "text-primary");
     button.classList.remove("text-outline");
 
     galleryItems.forEach((item) => {
